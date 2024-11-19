@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HouseOfTheDragon</string>
+    <string name="name">Bienvenido sir, con quién tengo el placer de conversar?</string>
+    <string name="answer">Responder</string>
+</resources>
